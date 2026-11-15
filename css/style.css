@@ -335,3 +335,6 @@
       .hero-image { transform: none !important; }
       .js-ready .reveal { opacity: 1; transform: none; }
     }
+/* Independent Miami-Dade referral guide. */
+body{padding-bottom:115px}html{scroll-padding-top:130px}.nav-contact{white-space:nowrap;flex-shrink:0}.nav-inner{gap:16px}.brand-name{font-size:15px}.brand-name span{font-size:11px}.call-banner{position:fixed;bottom:0;left:0;right:0;z-index:100;background:#233d34;color:white;display:flex;align-items:center;justify-content:center;gap:12px 25px;padding:14px 20px;flex-wrap:wrap;text-align:center}.call-banner a{font-size:24px;font-weight:700;color:#fff;text-decoration:none;white-space:nowrap}.call-banner small{font-size:11px}.referral-disclosure{font-size:12px;line-height:1.8;margin:30px 0}.placeholder-note{font-size:12px;margin-top:15px}.js-ready .reveal{opacity:1;transform:none}.policy-main{max-width:850px;margin:auto;padding:70px 24px}.policy-main h1{font-size:40px}.policy-main h2{font-size:25px;margin-top:28px}
+@media(max-width:767px){.nav-inner{flex-wrap:wrap}.nav-contact{width:100%;order:4;font-size:14px}.call-banner{flex-direction:column;gap:3px}.hero-content{padding-top:170px}.hero-bottom p{font-size:16px}}
